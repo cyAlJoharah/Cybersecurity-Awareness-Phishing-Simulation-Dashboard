@@ -15,14 +15,14 @@ The dataset used in this project was obtained from Kaggle and contains Google Re
 
 ## How to Run the Project 
 
-1. **Download Raw Data:**
-   - Download the raw phishing simulation dataset (`raw_data.csv`) attached in this repository.
-2. **Open Google Colab:**
-   - Open [Google Colab](https://colab.research.google.com/) and create a new notebook or open the project notebook (`.ipynb`).
-3. **Upload the Dataset:**
-   - In the Colab left sidebar, click the **Files** icon 📁 and upload the downloaded `raw_data.csv` file.
-4. **Run the Script:**
-   - Run the main script cells sequentially to process behavioral metrics, generate the Composite Risk Index (CRI), and launch the interactive **Phishing Post-Assessment Intelligence Hub** dashboard.
+1. **Download Files:**
+   - Download the project notebook (`.ipynb`) and the raw dataset (`.csv`) from this repository.
+2. **Open in Colab:**
+   - Go to [Google Colab](https://colab.research.google.com/), click **Upload**, and select the downloaded notebook (`.ipynb`).
+3. **Upload Dataset:**
+   - In Colab, click the **Files** 📁 icon in the left sidebar and upload the dataset (`.csv`).
+4. **Run:**
+   - Run the cells (`Runtime` > `Run all`).
 
 ## Training Program
 This project was developed by: **AlJoharah AlQahtani** as part of the **Data Visualization and Storytelling (SDA-DSC-112)** training program at [**SDAIA Academy**](https://github.com/SDAIAAcademy).
