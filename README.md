@@ -14,6 +14,6 @@ Using visual perception principles, decluttering, and strategic use of color, th
 The dataset used in this project was obtained from Kaggle and contains Google Reviews data used for analysis and visualization.
 
 ## Training Program
-This project was developed by: AlJoharah AlQahtani as part of the Data Visualization and Storytelling (SDA-DSC-112) training program at [**SDAIA Academy**]([https://sdaia.gov.sa/ar/Sectors/BuildingCapacity/academy/Pages/default.aspx](https://github.com/SDAIAAcademy)).
+This project was developed by: **AlJoharah AlQahtani** as part of the **Data Visualization and Storytelling (SDA-DSC-112)** training program at [**SDAIA Academy**](https://github.com/SDAIAAcademy).
 
-Instructor: Eng. Faisal Alwadie
+**Instructor:** Eng. Faisal Alwadie
